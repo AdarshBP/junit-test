@@ -12,4 +12,5 @@ import org.junit.runner.RunWith;
 
 public class SuiteRunner {
 
+	//this class is a runner file which is used to run the testsuite , add the tagName in Includetags and to exclude add it in Exclude tags 
 }
